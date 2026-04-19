@@ -57,7 +57,7 @@ void countify(WordTree **countRoot, WordTree **wordRoot) {
 void read(WordTree **tree) {
     if (*tree == NULL) return;
     read(&(*tree)->right);
-    printf("%d %s ", (*tree)->count, (*tree)->word);
+    printf("%d %s\n", (*tree)->count, (*tree)->word);
     read(&(*tree)->left);
 }
 

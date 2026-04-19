@@ -12,5 +12,18 @@ q2.exe < test1.txt
 q2.exe < test2.txt
 
 Output:
-4 boo 3 hi 2 apple 1 cooper
-10 j 9 z 8 l 7 g 6 i 5 f 4 d 3 c 2 b 1 x
+4 boo
+3 hi
+2 apple
+1 cooper
+
+10 j
+9 z
+8 l
+7 g
+6 i
+5 f
+4 d
+3 c
+2 b
+1 x
