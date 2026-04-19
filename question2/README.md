@@ -5,7 +5,12 @@
 Hint: First count all the words, then use a tree, but compare counts rather than words.
 
 Compile Steps: 
+gcc -o q2.out q2.c
 
 Command(s) to run:
+q2.exe < test1.txt
+q2.exe < test2.txt
 
 Output:
+4 boo 3 hi 2 apple 1 cooper
+10 j 9 z 8 l 7 g 6 i 5 f 4 d 3 c 2 b 1 x
